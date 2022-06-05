@@ -1,5 +1,4 @@
-# MySQL-NorthWind-Database
-NorthWInd Database
+
  # MySQL-NorthWind-DataBase
  
 This is a version of the Microsoft Access 2000 Northwind sample database, re-engineered for MySQL.
